@@ -1,0 +1,7 @@
+crack_segmentation_model (2).pth is pre trained model that is downloaded after training the dataset.
+
+Alignment & Crcack.txt code is used for the aligning,cropping the images so that cracks image would be of same pixels.
+
+Complete integrtion code include the crack type prediction as well as the area propagtion & all other feature of the crack.
+
+The pre-trained segmentation loader code get the pre-trained model and takes the crack image folder as input, outputting the predicted crack type.
